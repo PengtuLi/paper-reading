@@ -14,7 +14,7 @@
 
 - [DNN serving, Heterogeneous GPUs and Network] [Helix: Serving Large Language Models over Heterogeneous GPUs and Network via Max-Flow](https://dl.acm.org/doi/pdf/10.1145/3669940.3707215). Mei Yixuan, Zhuang Yonghao, Miao Xupeng, Yang Juncheng, Jia Zhihao, Vinayak Rashmi. ASPLOS'25
 
-<!-- - [Serverless DL Serving] [Medusa: Accelerating Serverless LLM Inference with Materialization](https://dl.acm.org/doi/pdf/10.1145/3669940.3707285). Zeng Shaoxun, Xie Minhui, Gao Shiwei, Chen Youmin, Lu Youyou. ASPLOS'25 -->
+- [Serverless DL Serving] [Medusa: Accelerating Serverless LLM Inference with Materialization](https://dl.acm.org/doi/pdf/10.1145/3669940.3707285). Zeng Shaoxun, Xie Minhui, Gao Shiwei, Chen Youmin, Lu Youyou. ASPLOS'25
 
 - [MoE Inference, on-device] [MoE-Lightning: High-Throughput MoE Inference on Memory-constrained GPUs](https://dl.acm.org/doi/pdf/10.1145/3669940.3707267). Cao Shiyi, Liu Shu, Griggs Tyler, Schafhalter Peter, Liu Xiaoxuan, Sheng Ying, Gonzalez Joseph E., Zaharia Matei, Stoica Ion. ASPLOS'25
 
@@ -30,7 +30,7 @@
 
 - [multi-level KV cache, LLM Serving, Multi-turn Dialogues] [Accelerating LLM Serving for Multi-turn Dialogues with Efficient Resource Management](https://dl.acm.org/doi/pdf/10.1145/3676641.3716245). Jeong Jinwoo, Ahn Jeongseob. ASPLOS'25
 
-- [LLM serving, preemptive scheduling] [Aqua: Network-Accelerated Memory Offloading for LLMs in Scale-Up GPU Domains](https://dl.acm.org/doi/pdf/10.1145/3676641.3715983). Vijaya Kumar Abhishek, Antichi Gianni, Singh Rachee. ASPLOS'25
+~- [LLM serving, preemptive scheduling] [Aqua: Network-Accelerated Memory Offloading for LLMs in Scale-Up GPU Domains](https://dl.acm.org/doi/pdf/10.1145/3676641.3715983). Vijaya Kumar Abhishek, Antichi Gianni, Singh Rachee. ASPLOS'25~
 
 - [Collaboration-of-Experts, llm serving] [CoServe: Efficient Collaboration-of-Experts (CoE) Model Inference with Limited Memory](https://dl.acm.org/doi/pdf/10.1145/3676641.3715986). Suo Jiashun, Liao Xiaojian, Xiao Limin, Ruan Li, Wang Jinquan, Su Xiao, Huo Zhisheng. ASPLOS'25
 
